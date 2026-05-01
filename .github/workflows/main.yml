@@ -6,7 +6,7 @@ on:
       agent_name:
         description: 'AnggiAdrin'
         required: true
-        default: 'Anggi Adrin'
+        default: 'AnggiAdrin'
       agent_description:
         description: 'AnggiAdrin'
         required: true
